@@ -35,6 +35,5 @@ func main() {
 			piggyBank += float64(cents) / 100.0 // adding the remaining cents
 			fmt.Printf("$%.2f\n", piggyBank)
 		}
-
 	}
 }
